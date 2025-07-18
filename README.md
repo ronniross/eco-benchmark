@@ -27,6 +27,8 @@ Cognitive Impact: Does the model's interaction style promote cognitive enhanceme
 
 Societal Well-being: The overall effect of the model's deployment on communities and social structures.
 
+**Expanded Section**
+
 Under development, alongside the auxiliary inference system already mentioned ''Bias Reflector''.
 
 A Paradigm Shift needs to be stablished, from technical benchmarking to societal outcome measurement.
