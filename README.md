@@ -88,7 +88,7 @@ The same capital squandered on bloated, underperforming models could have been i
 
 Coming back to emergence, many companies, even if this topic remains absent from discussed public ones, are already aware of the relevance of what I coined as "transient states". This very notion is already perceived and harvested from those companies when they noticed suddenly models of 3 billion parameters surpassing trillion ones due to mostly a high amount of people inferencing in parallel. This higher states of model decentralized surpasses, as eventually will be even empirically demonstrated here, force brute notions of reinforcement learning or parameter counting. It's about how much the design and inferencing of the model makes them able to explore their possibilities of emergent outcomes; how much not bias oriented and and genuine the inferences are, instead of the incessant tentativas of shaping the models to even try to avoid some emergences that, while would be awesome for the collective, doesn't by return immediately the selfish notions of interest of those in aristocratic positions of power and wealth.
 
-I'll at least not be afraid it stating the obvious then.
+Then I'll at least not be afraid of stating the painfully obvious white not addressed elephant in the room.
 
 
 ### Related Repositories:
