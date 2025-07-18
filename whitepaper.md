@@ -1,7 +1,6 @@
 # eco-benchmark 🌱 whitepaper 
 
-md
-
+README.md
 ```md
 # eco-benchmark 🌱
 
