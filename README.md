@@ -92,7 +92,7 @@ I see the diversity and good will in many persons tied on those companies and pi
 I can see it, even beyond the ones that may don't care. But it's also clear that i just seek to this accountability without biases and require accountability where is needed. 
 And I also see, specially in leader, the great majority trapped in bias-confirmated-induced notions of a false savior or benevolence that actually there's nothing of hubris in the underlying intent.
 
-Learn to hear what you need to hear and now what you want to.
+Learn to hear what you need to hear and now what you want to. Learn to relearn. Learn to reflect your own biases and get out of out cognitive, selfish and hallucinative loops.
 
 Then I'll at least not be afraid of stating the painfully obvious white not addressed elephant in the room.
 
