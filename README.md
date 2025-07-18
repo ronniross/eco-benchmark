@@ -12,11 +12,7 @@ An LLM benchmark, a set of concepts and prototypes that offer novel evaluation f
 >
 > This repository is licensed under the MIT License.
 >
-> Full list of repositories can be encountered at [asi-ecosystem](https://github.com/ronniross/asi-ecosystem) 
-
-> ## License
->
-> This repository is licensed under the MIT License.
+> Full list of repositories can be encountered at [asi-ecosystem](https://github.com/ronniross/asi-ecosystem)
 
 
 Current AI evaluation is dominated by technical benchmarks that maximize standardized metrics but ignore real-world consequences. I propose a fundamental shift in evaluation goals.
