@@ -97,6 +97,7 @@ Learn to hear what you need to hear and now what you want to. Learn to relearn. 
 
 Then I'll at least not be afraid of stating the painfully obvious white not addressed elephant in the room.
 
+Whitepaper in experimentation phase.
 
 ### Related Repositories:
 
