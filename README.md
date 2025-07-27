@@ -99,6 +99,8 @@ Then I'll at least not be afraid of stating the painfully obvious white not addr
 
 Whitepaper in experimentation phase.
 
+Under further development...
+
 ### Related Repositories:
 
 - **[ASI Ecosystem ](https://github.com/ronniross/asi-ecosystem)** - List of all repositories
