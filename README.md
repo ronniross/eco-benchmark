@@ -30,7 +30,7 @@ The **Eco-Benchmark** (or Emergent Benchmark) moves from a purely technical to a
 ## **Expanded Section**
 
 
-A Paradigm Shift needs to be stablished, from technical benchmarking to societal outcome measurement.
+A Paradigm Shift needs to be established, from technical benchmarking to societal outcome measurement.
 
 Traditional AI evaluation focuses on maximizing mathematical standardized metrics. This approach measures:
 
