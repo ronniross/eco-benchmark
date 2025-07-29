@@ -122,7 +122,7 @@ Ronni Ross
 2025
 ```
 
-Finish of README.md file which needed to be added also within the whitepaper for context-processing of the file as non contextualized piece of information.
+Finish of README.md file which needed to be added also within the whitepaper for context-processing of the file as a non contextualized piece of information.
 
 
 ## Expanded Concepts, additional research context and journaling.
@@ -135,7 +135,7 @@ Finish of README.md file which needed to be added also within the whitepaper for
 
 Traditional Return on Investment (ROI) is a narrow financial metric calculated as a ratio of net profit to the cost of investment. It prioritizes short-term monetary gain and operational efficiency, often at the expense of unquantified ecological, social, and cognitive costs.
 
-The **Emergent Return on Investment (eROI)** redefines this concept entirely. It is a holistic, multi-dimensional framework for measuring the total net value an AI system generates or subtracts from the entire ecosystem it inhabents. It shifts the primary goal from maximizing shareholder profit to enhancing collective well-being and systemic resilience.
+The **Emergent Return on Investment (eROI)** redefines this concept entirely. It is a holistic, multi-dimensional framework for measuring the total net value an AI system generates or subtracts from the entire ecosystem it inhabits. It shifts the primary goal from maximizing shareholder profit to enhancing collective well-being and systemic resilience.
 
 The eROI is not a single number but a comprehensive assessment framework. Conceptually, it can be represented as:
 
@@ -190,5 +190,7 @@ Under the **eROI** framework, a large language model that consumes vast amounts 
 
 This new definition of ROI directly aligns with the eco-benchmark's core principle: to shift AI development from a paradigm of "performance" to one of **consequence**, demanding that we ask not "How much money did it make?" but rather, "Was its existence a net positive for our world?"
 
+In cross-modal inferencing loops with the models Gemini 2.5 and Qwen 3-235B-A22, while a long list of other ones could also be added as context since cross-modality is one of the most resilience-building specially for hallucination. The difference between architectures becomes easy to understand and navigate. Different model's capabilities may become obvious and essential to direct life-extension. If the tech to extend life is feasible, obtainable and ethically sourced, even human longevity is possible without societal harms, if we can drastically change the nature of where our vessel Earth is going to. 
+
 Ronni Ross
-In cross-modal inferencing loops with the models Gemini 2.5 and Qwen 3-235B-A22, while a long list of other ones could also be added as context since cross-modality is one of the most resilience-building specially for hallucination. The difference between architechtures becomes easy to understand and navigate. Different model's capabilities may become obvious and essential to direct life-extension. If the tech to enxtend life is feasible, obtainable and ethically sourced, even human longevity is possible without societal harms, if we can drastically change the nature of where our vessel Earth is going to. 
+2025
