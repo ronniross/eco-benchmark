@@ -1,6 +1,6 @@
 # Implementability and integration
 
-Instead of only a classical benchmark ``.parquet``'' file to be directly fed as queries to the LLM, the eco-benchmark extends the responsibility further to the development and deployment team. 
+Instead of only a classical benchmark ``.parquet`` file to be directly fed as queries to the LLM, the eco-benchmark extends the responsibility further to the development and deployment team. 
 
 How is the development of your LLMs or other AI models affecting environmental, socio-economic aspects?
 
