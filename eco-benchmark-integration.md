@@ -2,7 +2,7 @@
 
 Instead of only a classical benchmark ``.parquet``'' file to be directly fed as queries to the LLM, the eco-benchmark extends the responsibility further to the development and deployment team. 
 
-How is the development of your LLMs or other AI models affecting environmental, socio-economic aspects which the benchmark focuses on?
+How is the development of your LLMs or other AI models affecting environmental, socio-economic aspects?
 
 But I also know that the current ROI nature of the companies mostly just runs over any kind of real sense of accountability or green development one could propose upon them.
 
