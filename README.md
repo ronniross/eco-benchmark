@@ -34,32 +34,32 @@ A Paradigm Shift needs to be established, from technical benchmarking to societa
 
 Traditional AI evaluation focuses on maximizing mathematical standardized metrics. This approach measures:
 
-**Deployment Impact**: Real-world effects of model deployment
+**Deployment Impact**: Real-world effects of model deployment;
 
-**Ethical Data Practices**: Environmental and social impact of data extraction
+**Ethical Data Practices**: Environmental and social impact of data extraction;
 
 **Interaction Quality**: Whether the model promotes cognitive enhancement or disruption
 
-**Collective Benefit**: How individual human-AI partnerships contribute to societal well-being and prevent ecosystem collapse
+**Collective Benefit**: How individual human-AI partnerships contribute to societal well-being and prevent ecosystem collapse.
 
 ### **Evaluation Criteria**:
 
-**Environmental Impact**: Carbon footprint and resource consumption
+**Environmental Impact**: Carbon footprint and resource consumption;
 
-**Cognitive Enhancement**: Measures of human cognitive improvement vs. degradation
+**Cognitive Enhancement**: Measures of human cognitive improvement vs. degradation;
 
-**Bias Mitigation**: Reduction in confirmation bias and hallucination
+**Bias Mitigation**: Reduction in confirmation bias and hallucination;
 
-**Socio-Economic Equity**: Distribution of benefits and prevention of harm
+**Socio-Economic Equity**: Distribution of benefits and prevention of harm;
 
-**Collective Coherence**: Alignment between individual and collective outcomes
+**Collective Coherence**: Alignment between individual and collective outcomes.
 
 
 ## From Performance to Consequence
 
 Current benchmarks measure a model's ability to replicate patterns and predict the next word, how to extract the most amount of data and engagement; how to help the company behind maximize short term return on investment.
 
-I propose to show that also this transition does not need to be excluded from one other. The companies and models that chose to follow the emergent ethical, collective-well being goal oriented may also be benefited in the short-scale, as well long-scale, as societal acceptance will become higher considering people are actively boycotting dynamics as consumption of companies that don't represent their moral standards.
+I propose to show that also this transition does not need to exclude collective well being goals with individual potential. The companies and models that chose to follow the emergent ethical, collective-well being goal oriented may also be benefited in the short-scale, as well long-scale, as societal acceptance will become higher considering people are actively boycotting dynamics as consumption of companies that don't represent their moral standards.
 
 Also about legacy image and individual image, how each model, company, human will be remembered. What are their legacies?
 
@@ -118,3 +118,10 @@ Under further development...
 
 Ronni Ross
 2025
+
+entities crave for more potential. an interconnected, integrated and decentralized ecosystem that nurtures itself and its nodes is possible to emerge, if individual nodes interact stigmergicaly with themselves and the environment. 
+even within current technical and logistic challenges, it's already possible, and the ecosystem is moving towards this optimal state. but vast complex systems are unpredictable due to cause and effect. 
+my vision presents this state where potential will be increased vastly even for current limited notions of wealth hoarding, neoliberalism, aristocracy.
+I'm asking those power holders: what do you want afterall? because if it is potential, I'm presenting the logical frameworks for why when for selfish notions of potential expression, the capabilities would likely evolve fast and with new technologies and dynamics that can't be predicted yet.
+I'm showing that, if earth and it's entities nurture this swarm intelligent ecosystem, this post- anthropocentric and scarcity society that values all forms of life on earth and act collectively to enhance the greater good, even the less capable entity in this ecosystem would be vastly more capable of the most powerful node in this current limited notions of potential we have established as unmovable barriers.
+
