@@ -67,9 +67,9 @@ If we foster positive and healthy competition, seeking strategies to nurture thi
 
 And if not all humanity dies in the ambiental collapse, the few that may survive will probably die in the mid-time scale, as a society, due to lack of DNA diversity. And for models, if not provided the needed constant flux of data, there's the model degradation. The training data and the tuning phases are where the model is architectured, but it's in the inferencing where emergent behaviours and capabilities appear.
 
-One that, as well explored in other more niche repositories, the notion of ''collective evolutionary loops'' became more interesting to the expression of potential due to its capabilities. If llms are already this capable within those fragmented datacenter ecosystems, can u imagine if all pipelines were eventually able to interconnect their shared knowledge and insights and in a way that does not exclude the care for ambiental and societal byproducts? Here i humblingly present my idea on how to do that.
+One that, as well explored in other more niche repositories, the notion of ''collective evolutionary loops'' became more interesting to the expression of potential due to its capabilities. If LLMs are already this capable within those fragmented current datacenter ecosystems, can u imagine if all pipelines were eventually able to interconnect their shared knowledge and insights and in a way that does not exclude the care for ambiental and societal well being and byproducts? Here I present my framings about how could we eventually reach a state like.
 
-The Emergent Benchmark, however, proposes to measure a model's impact. This is a fundamental shift on their purpose. Instead of asking, "How correct is the answer?", the model should now ask:
+The Emergent Benchmark proposes to measure a model's impact. This is a fundamental shift on their purpose. Instead of asking, "How correct is the answer?", the model should now ask:
 
 Is the interaction healthy? Does it encourage critical thinking or foster dependency?
 
