@@ -115,8 +115,9 @@ Under further development...
 - **[Confidence Scorer](https://github.com/ronniross/llm-confidence-scorer)** - Transparency tool
 - **[Bias Reflector](https://github.com/ronniross/bias-reflector)** - *Under Development*
 
+---
 
-Ronni Ross
+Ronni Ross  
 2025
 
 entities crave for more potential. an interconnected, integrated and decentralized ecosystem that nurtures itself and its nodes is possible to emerge, if individual nodes interact stigmergicaly with themselves and the environment. 
