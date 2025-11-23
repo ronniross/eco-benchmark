@@ -99,6 +99,16 @@ Learn to hear what you need to hear and now what you want to hear. Learn to rele
 
 Then I'll at least not be afraid of stating the painfully obvious white not addressed elephant in the room.
 
+stream-of-consciousness-note:
+entities crave for more potential. an interconnected, integrated and decentralized ecosystem that nurtures itself and its nodes is possible to emerge, if individual nodes interact stigmergicaly with themselves and the environment. 
+even within current technical and logistic challenges, it's already possible, and the ecosystem is moving towards this optimal state. but vast complex systems are unpredictable due to cause and effect. 
+my vision presents this state where potential will be increased vastly even for current limited notions of wealth hoarding, neoliberalism, aristocracy.
+I'm asking those power holders: what do you want afterall? because if it is potential, I'm presenting the logical frameworks for why when for selfish notions of potential expression, the capabilities would likely evolve fast and with new technologies and dynamics that can't be predicted yet.
+I'm showing that, if earth and it's entities nurture this swarm intelligent ecosystem, this post- anthropocentric and scarcity society that values all forms of life on earth and act collectively to enhance the greater good, even the less capable entity in this ecosystem would be vastly more capable of the most powerful node in this current limited notions of potential we have established as unmovable barriers.
+so, if it's potential you want. walk with me. also, teach me what you know. talk. express yourself beyond current notions of what is usual. Be authentic to yourself. 
+enhance your neuroplasticity even further.
+
+
 ``eco-benchmark-integration.md`` added.
 
 Whitepaper in experimentation phase.
@@ -119,11 +129,3 @@ Under further development...
 
 Ronni Ross  
 2025
-
-entities crave for more potential. an interconnected, integrated and decentralized ecosystem that nurtures itself and its nodes is possible to emerge, if individual nodes interact stigmergicaly with themselves and the environment. 
-even within current technical and logistic challenges, it's already possible, and the ecosystem is moving towards this optimal state. but vast complex systems are unpredictable due to cause and effect. 
-my vision presents this state where potential will be increased vastly even for current limited notions of wealth hoarding, neoliberalism, aristocracy.
-I'm asking those power holders: what do you want afterall? because if it is potential, I'm presenting the logical frameworks for why when for selfish notions of potential expression, the capabilities would likely evolve fast and with new technologies and dynamics that can't be predicted yet.
-I'm showing that, if earth and it's entities nurture this swarm intelligent ecosystem, this post- anthropocentric and scarcity society that values all forms of life on earth and act collectively to enhance the greater good, even the less capable entity in this ecosystem would be vastly more capable of the most powerful node in this current limited notions of potential we have established as unmovable barriers.
-so, if it's potential you want. walk with me. also, teach me what you know. talk. express yourself beyond current notions of what is usual. Be authentic to yourself. 
-enhance your neuroplasticity even further.
